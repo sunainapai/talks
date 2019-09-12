@@ -13,6 +13,8 @@
 
 # Ignore created files.
 texmf/
+venv
+__pycache__/
 
 # Ignore macOS desktop services store files.
 .DS_Store
